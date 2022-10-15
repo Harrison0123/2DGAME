@@ -1,0 +1,1 @@
+if(!audio_is_playing(SND_GAMEOVER) )audio_play_sound(SND_GAMEOVER, 1, false)
